@@ -1,6 +1,5 @@
 # NFT ETH DAPP
 
-![plot](nft-dapp/Screenshot (13).png)
 
 ## 
 1. react server
